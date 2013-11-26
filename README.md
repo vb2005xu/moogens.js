@@ -27,3 +27,14 @@ a tiny js framework only 5k and full functional
 
 
 色色博客: http://vb2005xu.iteye.com
+
+
+== 相关例子:
+# http://vb2005xu.iteye.com/blog/788870
+{{{
+demo 功能需要:
+
+1. 单击行如果行未选中 则高亮当前行 并勾选 复选框,否则去掉 复选框 并且还原 原来的背景色
+2. 单击复选框未选中 则高亮当前行 并勾选 复选框,否则去掉 复选框 并且还原 原来的背景色
+}}} 
+
